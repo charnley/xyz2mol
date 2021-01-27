@@ -73,6 +73,8 @@ which will install a hook into your git, and run a format and code-quality check
 
 ### Releases
 
+change
+
 To do a release we use GitHub actions on Git Tags.
 Increment the release by
 
